@@ -48,6 +48,8 @@ Tout ce qui est fait en local n'a aucun impact sur le remote tant que ce n'est p
 
 L'environnement local se met à jour lors de "pull" (commande `git pull` ou commande `git fetch`).
 
+ceci est un test
+
 ## Qu'est-ce qu'un commit ?
 
 Un commit est un "snapshot" du projet, il contient tout le projet (ce n'est pas une différence par rapport au dernier commit). 
