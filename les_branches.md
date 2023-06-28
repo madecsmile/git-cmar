@@ -37,3 +37,4 @@ Cela permet de sécuriser pour éviter une suppression par erreur par exemple.
 - `git reset --hard hash_commit` : Déplacer une branche en force
 
 *Peut être fait quand on est sur la branche*
+modif
